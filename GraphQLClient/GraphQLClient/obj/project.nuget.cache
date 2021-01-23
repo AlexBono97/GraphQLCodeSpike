@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hryGFX+2AtKDgcsJQ9yxtzVsXogdhLyIXtiUg6HhNBcK3uIHiOYyHYlkbv9Lg8HghR8o3byk2QhtxnbuFoSQlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexa\\Desktop\\GraphQL stuff\\GraphQLClient\\GraphQLClient\\GraphQLClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexa\\.nuget\\packages\\graphql.client\\3.2.0\\graphql.client.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\graphql.client.abstractions\\3.2.0\\graphql.client.abstractions.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\graphql.client.abstractions.websocket\\3.2.0\\graphql.client.abstractions.websocket.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\3.2.0\\graphql.client.serializer.newtonsoft.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\graphql.primitives\\3.2.0\\graphql.primitives.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
